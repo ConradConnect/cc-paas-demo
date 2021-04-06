@@ -1,0 +1,27 @@
+.wrapper {
+  padding: 30px;
+}
+
+.onButton {
+  background-color: #4caf50;
+  color: #fff;
+  box-shadow: 0 4px 6px rgba(50, 50, 93, 0.11), 0 1px 3px rgba(0, 0, 0, 0.08);
+  padding: 7px 14px;
+  width: 90px;
+}
+
+.onButton:hover {
+  background-color: #318534;
+}
+
+.offButton {
+  background-color: #e0e0e0;
+  color: rgba(0, 0, 0, 0.87);
+  box-shadow: 0 4px 6px rgba(50, 50, 93, 0.11), 0 1px 3px rgba(0, 0, 0, 0.08);
+  padding: 7px 14px;
+  width: 90px;
+}
+
+.colorPicker {
+  margin-bottom: 20px;
+}

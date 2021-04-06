@@ -1,0 +1,18 @@
+.webhookCard {
+  padding: 10px;
+  margin: 10px;
+}
+
+.webhookTitleRow {
+  display: flex;
+}
+
+.webhookTitle {
+  font-size: 16px;
+  font-weight: 600;
+  flex: 1;
+}
+
+.webhookTopRight {
+  flex: 0;
+}
