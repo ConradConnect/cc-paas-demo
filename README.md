@@ -3,6 +3,13 @@
 This Demo Application is an example use case on how to use the Conrad Connect PaaS Api.
 The project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# Prerequisites
+
+You’ll need to have Node 10.16.0 or later version on your local development machine, and npm. See here on how to install it: https://nodejs.org/en/download/
+To install the node dependencies, in the root directory of this project, run
+
+`npm install`
+
 ## Credentials Configuration
 
 Before starting the application, you need to configure some valid credentials to use the API.
@@ -11,8 +18,9 @@ You can contact business.solutions@conradconnect.de to get these credentials for
 Next, Open the `.env` file in the project root directory. 
 Enter your credentials in the following lines
 
-REACT_APP_API_PASSWORD=<apipassword>
-REACT_APP_API_USERNAME=<apiusername>
+```REACT_APP_API_PASSWORD=<apipassword>```
+```REACT_APP_API_USERNAME=<apiusername>```
+
 ## Available Scripts
 
 In the project directory, you can run:
